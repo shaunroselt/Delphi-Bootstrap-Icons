@@ -19,11 +19,6 @@ var ValveSteamIconSVG := GetBootstrapIcon('steam'); // Returns SVG Code
 var BrushIconSVG := GetBootstrapIcon('brush'); // Returns SVG Code
 ```
 
-
-## Figma Plugin
-
-You can install it from Figma app: [Bootstrap Icons Plugin for Figma](https://www.figma.com/community/plugin/868341386266170307/Bootstrap-Icons)
-
 ## More options
 
 Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
