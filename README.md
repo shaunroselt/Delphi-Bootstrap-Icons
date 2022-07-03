@@ -2,9 +2,17 @@
 
 The [Bootstrap Icons library](https://icons.getbootstrap.com/) to use within Delphi.
 
-> Currently v1.8.3, over **1600 icons!**
+<p align="center">
+  <a href="https://v5.getbootstrap.com/">
+    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
+<p align="center">
+  Open source SVG icon library with over 1,600 icons.
+</p>
 
-<img src="https://api.framer.com/store/assets/ismael/bootstrap-icons/artwork.png?ODhmNDI">
+[![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
+
 
 ## Usage
 
@@ -18,8 +26,6 @@ var HouseIconSVG := GetBootstrapIcon('house'); // Returns SVG Code
 var ValveSteamIconSVG := GetBootstrapIcon('steam'); // Returns SVG Code
 var BrushIconSVG := GetBootstrapIcon('brush'); // Returns SVG Code
 ```
-
-## More options
 
 Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
 
