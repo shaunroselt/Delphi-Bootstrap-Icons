@@ -3,11 +3,6 @@ unit uBootstrapIcons;
 
 interface
 
-uses
-  System.IOUtils,
-  System.SysUtils,
-  System.Classes;
-
 type
   TBootstrapIcon = record
     name: String;
