@@ -8,7 +8,7 @@ The [Bootstrap Icons library](https://icons.getbootstrap.com/) to use within Del
   </a>
 </p>
 <p align="center">
-  Open source SVG icon library with over 1,600 icons.
+  Open source SVG icon library with over 1,900 icons.
 </p>
 
 [![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
