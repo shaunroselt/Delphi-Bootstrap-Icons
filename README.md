@@ -25,6 +25,10 @@ uses uBootstrapIcons
 var HouseIconSVG := GetBootstrapIcon('house'); // Returns SVG Code
 var ValveSteamIconSVG := GetBootstrapIcon('steam'); // Returns SVG Code
 var BrushIconSVG := GetBootstrapIcon('brush'); // Returns SVG Code
+
+var HouseIconSVGPathData := GetBootstrapIconPathData('house'); // Returns SVG Path Data Text
+var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam'); // Returns SVG Path Data Text
+var BrushIconSVGPathData := GetBootstrapIconPathData('brush'); // Returns SVG Path Data Text
 ```
 
 Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
