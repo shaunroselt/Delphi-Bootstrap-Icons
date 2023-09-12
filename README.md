@@ -16,6 +16,8 @@ The [Bootstrap Icons library](https://icons.getbootstrap.com/) to use within Del
 
 ## Usage
 
+### SVG Code
+
 ```pascal
 uses uBootstrapIcons
 
@@ -26,9 +28,26 @@ var HouseIconSVG := GetBootstrapIcon('house'); // Returns SVG Code
 var ValveSteamIconSVG := GetBootstrapIcon('steam'); // Returns SVG Code
 var BrushIconSVG := GetBootstrapIcon('brush'); // Returns SVG Code
 
+var HouseIconSVG := GetBootstrapIcon('house', 24); // Returns SVG Code with Width/Height set to 24
+var ValveSteamIconSVG := GetBootstrapIcon('steam', 24); // Returns SVG Code with Width/Height set to 24
+var BrushIconSVG := GetBootstrapIcon('brush', 24); // Returns SVG Code with Width/Height set to 24
+```
+
+### SVG Path Data
+
+```pascal
+uses uBootstrapIcons
+
+...
+
+
 var HouseIconSVGPathData := GetBootstrapIconPathData('house'); // Returns SVG Path Data Text
 var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam'); // Returns SVG Path Data Text
 var BrushIconSVGPathData := GetBootstrapIconPathData('brush'); // Returns SVG Path Data Text
+
+var HouseIconSVGPathData := GetBootstrapIconPathData('house', 24); // Returns SVG Path Data Text with Width/Height set to 24
+var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24); // Returns SVG Path Data Text with Width/Height set to 24
+var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24); // Returns SVG Path Data Text with Width/Height set to 24
 ```
 
 Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
