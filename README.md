@@ -8,7 +8,7 @@ The [Bootstrap Icons library](https://icons.getbootstrap.com/) to use within Del
   </a>
 </p>
 <p align="center">
-  Open source SVG icon library with over 1,900 icons.
+  Open source SVG icon library with over 2,000 icons.
 </p>
 
 [![Bootstrap Icons preview](https://github.com/twbs/icons/blob/main/.github/preview.png)](https://icons.getbootstrap.com)
@@ -50,7 +50,7 @@ var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24); // Retur
 var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24); // Returns SVG Path Data Text with Width/Height set to 24
 ```
 
-Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
+Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
 
 ## License
 
