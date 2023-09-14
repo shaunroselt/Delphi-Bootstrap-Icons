@@ -50,7 +50,7 @@ var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24); // Retur
 var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24); // Returns SVG Path Data Text with Width/Height set to 24
 ```
 
-Other ways to use Boostrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
+Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
 
 ## License
 
