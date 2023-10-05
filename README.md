@@ -55,3 +55,8 @@ Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https
 ## License
 
 - Bootstrap Icons are free and open source ([MIT](https://github.com/twbs/icons/blob/main/LICENSE.md)).
+
+---
+
+## Other Delphi Icon Libraries
+- [Font Awesome Icons](https://github.com/shaunroselt/Delphi-Font-Awesome-Icons)
