@@ -23,14 +23,20 @@ uses uBootstrapIcons
 
 ...
 
+// Returns SVG Code:
+var HouseIconSVG := GetBootstrapIcon('house');
+var ValveSteamIconSVG := GetBootstrapIcon('steam');
+var BrushIconSVG := GetBootstrapIcon('brush');
 
-var HouseIconSVG := GetBootstrapIcon('house'); // Returns SVG Code
-var ValveSteamIconSVG := GetBootstrapIcon('steam'); // Returns SVG Code
-var BrushIconSVG := GetBootstrapIcon('brush'); // Returns SVG Code
+// Returns SVG Code with Width/Height set to 24:
+var HouseIconSVG := GetBootstrapIcon('house', 24); 
+var ValveSteamIconSVG := GetBootstrapIcon('steam', 24);
+var BrushIconSVG := GetBootstrapIcon('brush', 24);
 
-var HouseIconSVG := GetBootstrapIcon('house', 24); // Returns SVG Code with Width/Height set to 24
-var ValveSteamIconSVG := GetBootstrapIcon('steam', 24); // Returns SVG Code with Width/Height set to 24
-var BrushIconSVG := GetBootstrapIcon('brush', 24); // Returns SVG Code with Width/Height set to 24
+// Returns SVG Code with Width/Height set to 24 and color set to purple (#800080):
+var HouseIconSVG := GetBootstrapIcon('house', 24, 'purple'); 
+var ValveSteamIconSVG := GetBootstrapIcon('steam', 24, '#800080');
+var BrushIconSVG := GetBootstrapIcon('brush', 24, 'purple');
 ```
 
 ### SVG Path Data
@@ -40,14 +46,20 @@ uses uBootstrapIcons
 
 ...
 
+// Returns SVG Path Data Text:
+var HouseIconSVGPathData := GetBootstrapIconPathData('house'); 
+var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam');
+var BrushIconSVGPathData := GetBootstrapIconPathData('brush');
 
-var HouseIconSVGPathData := GetBootstrapIconPathData('house'); // Returns SVG Path Data Text
-var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam'); // Returns SVG Path Data Text
-var BrushIconSVGPathData := GetBootstrapIconPathData('brush'); // Returns SVG Path Data Text
+// Returns SVG Path Data Text with Width/Height set to 24:
+var HouseIconSVGPathData := GetBootstrapIconPathData('house', 24); 
+var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24);
+var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24);
 
-var HouseIconSVGPathData := GetBootstrapIconPathData('house', 24); // Returns SVG Path Data Text with Width/Height set to 24
-var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24); // Returns SVG Path Data Text with Width/Height set to 24
-var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24); // Returns SVG Path Data Text with Width/Height set to 24
+// Returns SVG Path Data Text with Width/Height set to 24 and color set to purple (#800080):
+var HouseIconSVGPathData := GetBootstrapIconPathData('house', 24, 'purple'); 
+var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24, '#800080'); 
+var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24, 'purple'); 
 ```
 
 Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
