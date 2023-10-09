@@ -95,3 +95,4 @@ Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https
 
 ## Other Delphi Icon Libraries
 - [Font Awesome Icons](https://github.com/shaunroselt/Delphi-Font-Awesome-Icons)
+- [Feather Icons](https://github.com/shaunroselt/Delphi-Feather-Icons)
