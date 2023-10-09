@@ -62,6 +62,29 @@ var ValveSteamIconSVGPathData := GetBootstrapIconPathData('steam', 24, '#800080'
 var BrushIconSVGPathData := GetBootstrapIconPathData('brush', 24, 'purple'); 
 ```
 
+### SVG Base64 Image
+
+```pascal
+uses uBootstrapIcons
+
+...
+
+// Returns SVG Base64 Image:
+var HouseIconSVGBase64 := GetBootstrapIconBase64('house');
+var ValveSteamIconSVGBase64 := GetBootstrapIconBase64('steam');
+var BrushIconSVGBase64 := GetBootstrapIconBase64('brush');
+
+// Returns SVG Base64 Image with Width/Height set to 24:
+var HouseIconSVGBase64 := GetBootstrapIconBase64('house', 24); 
+var ValveSteamIconSVGBase64 := GetBootstrapIconBase64('steam', 24);
+var BrushIconSVGBase64 := GetBootstrapIconBase64('brush', 24);
+
+// Returns SVG Base64 Image with Width/Height set to 24 and color set to purple (#800080):
+var HouseIconSVGBase64 := GetBootstrapIconBase64('house', 24, 'purple'); 
+var ValveSteamIconSVGBase64 := GetBootstrapIconBase64('steam', 24, '#800080');
+var BrushIconSVGBase64 := GetBootstrapIconBase64('brush', 24, 'purple');
+```
+
 Other ways to use Bootstrap Icons: [https://icons.getbootstrap.com/#usage](https://icons.getbootstrap.com/#usage)
 
 ## License
