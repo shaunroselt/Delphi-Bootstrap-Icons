@@ -1,12 +1,32 @@
 repo_name: shaunroselt/Delphi-Bootstrap-Icons
-report_id: 9a892b4b925e548d30dd9d69439b9062
+report_id: a4fbbb9773203785dfe04d8736a1f40d
 repo_type: Public
-timestamp: '2023-11-09T13:33:29+00:00'
+timestamp: '2023-11-21T09:35:18+00:00'
 requested_by: shaunroselt
 provider: github
 branch: main
-detected_tools_count: 1
+detected_tools_count: 3
 tools:
+- name: Pascal
+  description: An imperative and procedural programming language
+  website_url: https://en.wikipedia.org/wiki/Pascal_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source: uBootstrapIcons.pas
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
