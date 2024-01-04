@@ -1,7 +1,8 @@
 repo_name: shaunroselt/Delphi-Bootstrap-Icons
-report_id: 7860d2ac4ad61c2525ca36e5fe39e611
+report_id: a4fbbb9773203785dfe04d8736a1f40d
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:28:22+00:00'
+timestamp: '2024-01-04T14:54:18+00:00'
 requested_by: shaunroselt
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png
+  detection_source_url: https://github.com/shaunroselt/Delphi-Bootstrap-Icons
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/shaunroselt/Delphi-Bootstrap-Icons/blob/main/uBootstrapIcons.pas
   detection_source: uBootstrapIcons.pas
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,4 +38,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shaunroselt/Delphi-Bootstrap-Icons
   detection_source: Repo Metadata
