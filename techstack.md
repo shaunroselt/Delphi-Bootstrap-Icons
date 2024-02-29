@@ -3,8 +3,8 @@
 ## Tech Stack
 shaunroselt/Delphi-Bootstrap-Icons is built on the following main stack:
 
-- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -14,8 +14,8 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 shaunroselt/Delphi-Bootstrap-Icons is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/25462/default_b93b3ffaf8650f0584d7b2e14dd145f599722cae.png' alt='Pascal'/> [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 
 Full tech stack [here](/techstack.md)
 
@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [shaunroselt/Delphi-Bootstrap-Icons](https://github.com/shaunroselt/Delphi-Bootstrap-Icons)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|3<br/>Tools used|01/05/24 <br/>Report generated|
+|3<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
